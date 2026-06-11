@@ -35,9 +35,6 @@ Welcome to the **Women Safety Detection, Prevention & Support System**! This pro
 - **Website**  
   ![SOS Signal](media/1729090774569.jpg)
 
-- **Video Demo**  
-  ![Video Demo](media/Neerja%20Demo.mp4)
-
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the project locally:
